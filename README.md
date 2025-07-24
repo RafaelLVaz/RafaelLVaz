@@ -59,8 +59,7 @@
 
 <hr>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelLVaz&layout=compact&theme=onedark&hide_border=true" alt="Linguagens mais usadas" />
+<div <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaellvaz&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="rafaellvaz" /></p>
 </div>
 
 <hr>
